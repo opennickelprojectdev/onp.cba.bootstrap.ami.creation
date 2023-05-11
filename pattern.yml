@@ -13,10 +13,10 @@ lifecycle:
     commands:
     - bash lifecycle/upgrade.sh
 metadata:
-  organisation-id: onp
+  organisation-id: cba
   pattern-categories:
   - Bootstrap
   pattern-description: ' AMI creation pattern'
-  pattern-id: onp.cba.bootstrap.ami.creation
-  pattern-name: cba.bootstrap.ami.creation
+  pattern-id: cba.bootstrap.ami.creation
+  pattern-name: Enabler-Application AMI creation pattern
   pattern-version: 1.0.0
